@@ -1,7 +1,7 @@
-class TipeData{
+class tipedata{
 	private String nama;
-	public static vold main(String[] args){
-		TipeData isi = new TipeData();
+	public static void main(String[] args){
+		tipedata isi = new tipedata();
 		isi.setNama("Ramdhani");
 		byte a = 100;
 		short b = 100;
